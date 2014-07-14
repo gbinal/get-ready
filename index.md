@@ -1,5 +1,5 @@
 ---
-title: "Pillbox Data Process"
+title: "Get Ready"
 layout: docs
-date: December, 2013
+date: July, 2014
 ---
